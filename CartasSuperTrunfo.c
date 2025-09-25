@@ -3,7 +3,7 @@
 
 struct CartaSuperTrunfo {
    char estado;
-   char codigo[4]; // Supondo um comprimento máximo de 3 caracteres + ''
+   char codigo[4];
    char cidade[50];
    int populacao;
 };
